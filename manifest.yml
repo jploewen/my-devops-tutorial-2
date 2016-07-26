@@ -5,7 +5,7 @@ applications:
   name: devops-tutorial
   command: node app.js
   path: .
-  domain: mybluemix.net
+  domain: stage1.mybluemix.net
   instances: 1
   memory: 128M
   env:
